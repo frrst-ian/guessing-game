@@ -1,7 +1,9 @@
 [package]
 name = "guessing-game"
 version = "0.1.0"
-authores = "Ian Forrest"
+authors = ["Ian Forrest"]
 edition = "2021"
 
 [dependencies]
+
+rand = "0.3.13"
